@@ -1,0 +1,5 @@
+1. Your OddNumber.java program has an error on the for loop, please check 
+and correct that.
+
+2. For the product sales question, your program is accepting invalid product number
+for example it is not supposed to take 80 as a number
